@@ -1,0 +1,35 @@
+Capacity Management
+I have worked with cross functional teams to deliver on the on going Capacity Management dashboard and supported the smooth transition to 'support team'. I contributed to the on going development of the Account Processing and Network Capacity Dashboard.
+Supported the further development of the data automation scripts written in python and handed over to the team on priority basis.
+Took knowledge transfer sessions.
+Ever since Chrome updated the policy on data pulls from ServiceNow, helped the team to overcome the challenge my modifying the code in a way to support the data pull from ServiceNow.
+After a successful transition, been on call with the support team to validate the dashboard and help them fix any errors or incorrect data in the dashboard and ensuring proper and correct delivery of our dashboards to our clients.
+On the client requests Refactor the code files which automate the data files generation for the dashboard.
+DNA Tickets Analysis
+Received a very huge dataset of DNA tickets to perform analysis over the tickets and identify the patterns which are causing the backlog in the system. Challenges needed to overcome were, being a huge dataset it was impossible to study the data at whole and often the ticket description wasn't very clear or not written proplery. Needed an algorithmic solution to overcome this and build a solution that would help us capture more tickets and clear the backlog.
+Came up with TF-IDF algorithmic solution to check the most frequent words that is coming in the tickets.
+Added Cosine Similarity on top of the TF-IDF vectors to cluster the similar nature tickets in same clusters. Cosine Similarity being most accurate measurement of distance helped us to group similar tickets under one hood.
+Further added a network graph to study all these tickets together that would give us a visual view of the how tickets are distributed and how they are related to each other.
+To study the high density clusters, I implemented word cloud over the cluster to get the most important words out of tickets, this would give us the idea of root cause issue in those tickets.
+Upon further analysis of the clustered tickets, we were able to identify the problem patterns that was causing the backlog.
+Our overall analysis and highly optimized algorithmic approach helped the client to identify the root problems which were causing the backlogs.
+Generative AI Solution
+Successfully designed and implemented a comprehensive generative AI solution from inception to deployment, showcasing proficiency in both backend and frontend development. Worked on building the Fiserv's first and only kind RAG based system which takes the capability of LLM models to a whole new level, which supports security, speed, accuracy and efficiency.
+Developed a cutting-edge architecture that not only meets the technical requirements but also fosters scalability, efficiency, and future adaptability. Improved the LLM inbuild libraries to support GPU acceleration with improved response time.
+Designed various framed and user journey Frontend in Figma and integrated any additional features that were requested into the design journey of the product. Designed the logo and other svg files from scratch in Figma.
+Used Next.js to write and develop frontend which would help the end user to connect with the model seamlessly. Added additinal functionlities such as Responsive UI design to support different size screens, Material Design, Feedback buttons to record feedback from the users, cutom toast messages, regenrative button. Use tailwind css to ensure clean and minimalist code and effeciency.
+Delivered total of 4 design patterns of the user interface with clean and well commented code. Prioritized a user-centric approach in frontend development, creating an intuitive and aesthetically pleasing interface that enhances user engagement and satisfaction.
+Wrote REST API's to integrate frontend with backend that ensured smooth integration between the backend and frontend components, resulting in a cohesive user experience and optimal functionality.
+Implemented strategies for scalability, ensuring the solution can handle increased loads and maintain optimal performance, a critical aspect for long-term success. From different deployment startigies available, I chose kubernetes deployment strategy that would ensure easy scalibility, security, no to minimal downtimes and easy software updates.
+Wrote a very well organised, well commented and object oriented code, keeping time complexity in mind, I made sure that code should run in most optimal time complexity and should not consume much resources, I Overcame challenges in the development process with innovative problem-solving skills, showcasing adaptability and resilience in the face of complex technical issues.
+Maintained thorough and well-organized documentation throughout the development lifecycle, facilitating knowledge transfer and future enhancements.
+With our work in building the Gen AI Solution, we are targeting on solving some of the most complex problems of Fiserv with the help of Artificial Intelligence and it is being highly recognized by our clients as we promise to deliver the most unique and advanced solution to our clients.
+CCA Model Strategy
+Problem statement was to come up with unique strategies to reduce written off cases, in order to build the strategy we had study the data in detail.
+In order to study data, we had to prepare the data from scratch for which we wrote python scripts to handle data processing, data being huge we had to make some data cuts and process them parallelly.
+Pulled data from different sources and did data checks to ensure we are capturing correct data from the sources.
+Identified data anomalies and handled them in our calculation study.
+Discussed with team on regular basis to come up with a strategy and plan to handle written off cases.
+Built an interactive calculator for client to help them visualize the strategy and combine data analysis with business logic.
+With our data analysis study we would be able to boost Fiserv revenue and convert more delinquent customers to paid off customers.
+ 
